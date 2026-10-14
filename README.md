@@ -16,3 +16,5 @@ Effective date: October 14, 2026
 This bundle mirrors the existing Meroviq app legal sites: publish `public/` with GitHub Pages and set the custom domain to `doubling.meroviq.com`.
 
 Repository: `myhushus/doubling-legal`.
+
+Contact: doubling@meroviq.com
